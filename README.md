@@ -1,4 +1,4 @@
-# Retail Sales Performance Dashboard
+# Retail Sales Performance Analysis
 
 ## 📌 Project Overview
 This project is an interactive **Power BI dashboard** built to analyze retail sales performance using the **Superstore Dataset**. It was developed as part of a Data Analytics internship project, focusing on exploratory data analysis, data visualization, and business insight generation.
